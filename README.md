@@ -20,6 +20,8 @@ $ pip install sklearn
 $ python -V
 ```
 
-# Rode primeiro a sumarização
+# Utilizar o projeto
 
-# Na sequência a contador de vetores
+> Rode primeiro a sumarização
+>
+> Na sequência o contador de vetores
