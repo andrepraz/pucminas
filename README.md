@@ -1,6 +1,9 @@
 # PUCMinas
 
-Trabalho de conclusão de curso da pós graduação na PucMinas em IA e AM
+Trabalho de conclusão de curso da pós graduação na PucMinas em IA e AM.
+O objetivo do projeto é após a sumarização do texto, classificar o texto original e o sumarizado em:
+'negócio', 'entretenimento', 'política', 'esporte' e 'tecnologia'.
+Em seguida compará-los para ver se seguem o mesmo padrão de classificação.
 
 # Criar o ambiente virtual
 
@@ -16,3 +19,7 @@ $ pip install nltk
 $ pip install sklearn
 $ python -V
 ```
+
+# Rode primeiro a sumarização
+
+# Na sequência a contador de vetores
