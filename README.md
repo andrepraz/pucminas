@@ -22,7 +22,7 @@ $ python -V
 
 # Utilizar o projeto
 
-Rode primeiro a sumarização
+### Rode primeiro a sumarização
 
 ```python
 import numpy as np
@@ -45,10 +45,10 @@ A saída do resultado:
 resultado: ['negócio']
 ```
 
-Na sequência o contador de vetores
+### Na sequência o contador de vetores
 
 - Token =>
-- CountVectorizer() => **Converte uma coleção de documentos de texto em uma matriz de contagens de token.**
+- CountVectorizer() => _Converte uma coleção de documentos de texto em uma matriz de contagens de token._
 
 ```python
 df = pd.read_csv('textos_bbc_cls.csv')
