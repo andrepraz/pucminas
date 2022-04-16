@@ -31,6 +31,3 @@ Profundidade de 2 MP (f/2.4)
 Câmera frontal de 13 MP (f/2.4)
 A resolução máxima de captura de vídeos fica limitada ao Full HD a 30 quadros por segundo, tanto na câmera frontal quanto na traseira.
 São oito núcleos totais, sendo quatro para alto desempenho com clock máximo de 2,4 GHz de velocidade, além de mais quatro para eficiência energética que alcançam até 1,9 GHz.
-O modelo é voltado para quem busca um celular voltado para o bom custo-benefício.
-Além disso, a caixa do produto vem com um carregador rápido de 33W, capaz de levar a bateria do smartphone de zero a cem por cento em menos de uma hora.
-A taxa de atualização do display é de 90 Hz, o que garante efeitos de animação de sistema mais fluidos e melhor aproveitamento durante o consumo de vídeos, filmes ou jogos compatíveis com a funcionalidade.
